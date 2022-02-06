@@ -1,1 +1,0 @@
-# my-Django-projects
